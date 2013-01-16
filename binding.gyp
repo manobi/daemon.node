@@ -1,8 +1,8 @@
 {
   "targets": [
     {
-      "target_name": "binding",
-      "sources": [ "src/binding.cc" ]
+      "target_name": "lib/daemon",
+      "sources": [ "src/daemon.cc" ]
     }
   ]
 }
